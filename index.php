@@ -1,3 +1,3 @@
 <?php 
-echo 'hello bye';
+echo 'hello bye conflict';
 ?>
